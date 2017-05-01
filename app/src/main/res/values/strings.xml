@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Cat quiz</string>
+    <string name="player">What is your name?</string>
+    <string name="image_description">Its image of a cat</string>
+    <string name="question">Are you a cat person?</string>
+    <string name="question_1">1. What do you like to do?</string>
+    <string name="question_1_a">Play outdoors</string>
+    <string name="question_1_b">Play and run</string>
+    <string name="question_1_c">Stay at your couch</string>
+    <string name="question_1_d">Other</string>
+    <string name="question_2">2. Do you like cats?</string>
+    <string name="question_2_a">Yes</string>
+    <string name="question_2_b">No</string>
+    <string name="question_3">3. Are you very flexible and active?</string>
+    <string name="question_3_a">Yes</string>
+    <string name="question_3_b">No</string>
+    <string name="question_4">4. What hair do you have?</string>
+    <string name="question_4_a">Long</string>
+    <string name="question_4_b">Short</string>
+    <string name="question_4_c">Other</string>
+    <string name="question_5">5. Would you rather be able to jump very high or be able to have a good sense of smell?</string>
+    <string name="question_5_a">Jump high</string>
+    <string name="question_5_b">Have a good sense of smell</string>
+    <string name="question_6">6. Your friends describe you as (wild/calm):</string>
+    <string name="question_6_a">Wild or Calm</string>
+    <string name="question_7">7. Do you have a dog?</string>
+    <string name="question_7_a">Yes .duh!</string>
+    <string name="question_7_b">No way</string>
+    <string name="question_8">8. What pets do you have at home?</string>
+    <string name="question_8_a">Cat</string>
+    <string name="question_8_b">Dog</string>
+    <string name="question_8_c">Fish</string>
+    <string name="question_8_d">Bird</string>
+    <string name="question_8_e">Other</string>
+    <string name="result">For results press a finish button…</string>
+    <string name="finish">Finish</string>
+    <string name="reset">Reset</string>
+    <string name="errorMessageText">You have not filled everything!</string>
+    <string name="errorMessageText2">You have no pet???</string>
+    <string name="errorMessageText3">I miss your name.</string>
+    <string name="resetDoneMessage">Reset DONE!!!</string>
+    <string name="ResultsA1">Congratulations, </string>
+    <string name="ResultsA2">! You are a cat person!</string>
+    <string name="ResultsA3">You scored </string>
+    <string name="ResultsA4"> out of 16.</string>
+    <string name="ResultsB1">You are probably a dog person!</string>
+    <string-array name="choose_your">
+        <item>Wild</item>
+        <item>Calm</item>
+    </string-array>
+
+</resources>
